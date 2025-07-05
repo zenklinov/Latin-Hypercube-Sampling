@@ -8,7 +8,7 @@ Use Cases: Engineering design simulations, uncertainty quantification.
 
 A live version of this project is available as a web app powered by **Streamlit**. Try it out here:
 
-🔗 [Try the App on Streamlit]((https://latin-hypercube-sampling-ssraf3txq8zvpwyskjbzub.streamlit.app/)
+🔗 [Try the App on Streamlit](https://latin-hypercube-sampling-ssraf3txq8zvpwyskjbzub.streamlit.app/)
 
 ---
 
